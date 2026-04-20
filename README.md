@@ -1,9 +1,3 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=false&text=Hello%20!&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=8A2BE2"  />
-</div>
-
-###
-
 <h1 align="left">Software Engineering Student | CS Major Specializing in AI & Data Science | Exploring Agentic AI & LLMs</h1>
 
 ###
@@ -110,8 +104,4 @@
 
 <br clear="both">
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&reversal=false&text=Bye%20!%20&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=8A2BE2"  />
-</div>
 
-###
