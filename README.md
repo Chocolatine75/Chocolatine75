@@ -6,7 +6,7 @@ Engineering student in Paris. I mess around with LLMs when I'm not in class.
 Curious about the whole pipeline: kernels and inference servers at the bottom, orchestration and agents at the top.
  
 ## Awards
- 
+ 🥇 **1st Place out of 421 teams** — Battle Dev, Thales algorithmic competition  · 2026  
 🥇 **1st Place** — HrFlow.ai GenAI & HR Hackathon · 2026  
 🎖️ **National Finalist** — Gradient, Prologin × Mistral AI algorithmic competition · 2026  
 🏅 **Finalist** — Mistral AI Vibe Hackathon · 2026  
